@@ -1,74 +1,74 @@
-# Chukwubuike Victory Chime
+# 👋 Hi, I'm Chukwubuike Victory Chime
 
-**Blockchain Protocol Engineer — Solidity, DeFi, Uniswap v4, MEV-Aware Protocol Design**
+### Smart Contract Engineer building DeFi protocols, trading systems, stablecoins, and Uniswap hooks
 
-I design and build EVM-based protocol systems with a focus on DeFi infrastructure, liquidity mechanisms, Uniswap v3/v4, custom hooks, protocol accounting, and MEV-aware execution design.
+I build on-chain systems around the things I find most interesting in crypto: **markets, liquidity, stablecoins, leverage, hooks, and protocol security**.
 
-My current work sits around the intersection of:
+Right now, I’m especially focused on:
 
-- Uniswap v4 hooks and custom accounting
-- DeFi liquidity systems and AMM design
-- MEV-aware swap and matching mechanisms
-- Smart contract security and economic risk analysis
-- Rollup infrastructure, shared sequencing, fair ordering, and modular execution systems
-
-I am especially interested in protocols that improve market structure: better liquidity provisioning, safer execution, fairer ordering, and stronger economic guarantees for users and applications.
+- Perpetual trading systems
+- Stablecoin and local-currency crypto rails
+- Uniswap v3/v4 liquidity infrastructure
+- Uniswap hooks and custom accounting
+- Smart contract security and economic edge cases
 
 ---
 
-## Selected Work
+## 🛠️ Toolbelt
 
-### BOB — Conviction-Aligned Liquidity Protocol
+### Smart Contracts
 
-A Uniswap v4 hook concept for single-sided, conviction-based liquidity provisioning.
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
+![Vyper](https://img.shields.io/badge/Vyper-2980B9?style=for-the-badge&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 
-BOB is designed for long-term asset believers who want to keep directional exposure while deploying a controlled portion of capital into LP positions. The system explores impermanent-loss-aware allocation, fee capture, reserve accounting, and pool-selection constraints.
+### DeFi / Infra
 
-**Focus areas:** Uniswap v4 hooks, LP accounting, AMM design, impermanent loss, pool analysis, DeFi strategy design.
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)
+![Base](https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white)
+![Uniswap](https://img.shields.io/badge/Uniswap-FF007A?style=for-the-badge&logo=uniswap)
+![The Graph](https://img.shields.io/badge/The%20Graph-6747ED?style=for-the-badge&logo=thegraph)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge)
 
----
+### Frontend / dApps
 
-### TornadoSwap — MEV-Aware Large Order Matching
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Viem](https://img.shields.io/badge/Viem-black?style=for-the-badge)
+![Wagmi](https://img.shields.io/badge/Wagmi-black?style=for-the-badge)
 
-A privacy and MEV-aware swap design for large 1:1 trades such as USDC/USDT, stETH/ETH, and similar pairs.
+### Environment
 
-The design explores delayed matching, opposite-flow aggregation, partial fills, cancellation flows, and reduced exposure to price impact, sandwiching, and toxic execution.
-
-**Focus areas:** MEV protection, fair ordering, swap design, batch-style execution, liquidity matching, adversarial protocol analysis.
-
----
-
-### Outskirt — Uniswap v3 Pool Health Scanner
-
-A Uniswap v3 analytics tool for identifying out-of-range liquidity, inactive capital, liquidity distribution, pool depth, and position-level inefficiencies.
-
-**Focus areas:** Uniswap v3, tick/liquidity analysis, pool analytics, The Graph, DeFi data infrastructure.
-
----
-
-### Hook Security & Protocol Research
-
-Research and implementation work around Uniswap v4 hook mechanics, return deltas, ERC-6909 claims, swap deltas, pool validation, custom accounting, and economic safety assumptions.
-
-**Focus areas:** Solidity, Foundry, EVM internals, protocol invariants, smart contract security, liquidity accounting.
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## Technical Stack
+## 🧠 Research Interests
 
-**Smart Contracts:** Solidity, Foundry, Hardhat, OpenZeppelin  
-**DeFi:** Uniswap v3/v4, AMMs, hooks, liquidity accounting, ERC-20, ERC-721, ERC-6909  
-**Infrastructure:** The Graph, JSON-RPC, EVM indexing, L2s, protocol analytics  
-**Research Areas:** MEV, fair ordering, encrypted mempools, rollups, shared sequencing, consensus, economic security  
-**Frontend:** TypeScript, React, Next.js, ethers.js / viem  
+- Stablecoins
+- Uniswap hooks
+- DeFi trading and perpetuals
+- Smart contract security
+- AMMs and liquidity design
+- Oracle risk and liquidation mechanics
+- Local-currency crypto infrastructure
 
 ---
 
-## Writing & Research
+## 📊 GitHub Stats
 
-I also write technical notes and protocol breakdowns on DeFi, Uniswap, hooks, AMMs, security, and blockchain infrastructure.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeahChibyke&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahChibyke&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## ✍️ Writing / Links
 
 - Medium: https://medium.com/@yeahChibyke
 - X: https://x.com/chibyke_sol
-- Email: chibykepride@gmail.com
 - LinkedIn: https://www.linkedin.com/in/chime-chukwubuike-victory
+- Email: chibykepride@gmail.com
